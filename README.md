@@ -40,13 +40,3 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif"  />
 
 ###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alimuhammad77/alimuhammad77/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alimuhammad77/alimuhammad77/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alimuhammad77/alimuhammad77/output/pacman-contribution-graph.svg">
-</picture>
-
-###
