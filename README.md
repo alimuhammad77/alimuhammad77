@@ -1,11 +1,9 @@
 ### 🚀 About Me
 
 - 🔧 Building toward **DevOps & Infrastructure** — Docker, GitHub Actions CI/CD, and cloud deployments (Oracle Cloud, AWS)
-- 🐧 Comfortable in **Linux**, with basic monitoring via `htop`/`btop`
-- ⛓️ Also into ML and blockchain — check out my pinned repos for a recommendation engine and an Ethereum-based certificate system
-- 📝 I document everything I build — reports, runbooks, the whole thing
+- 🐧 Comfortable in **Linux** environments
+- ⛓️ Also into ML and blockchain — recommendation engines and Ethereum-based systems
 - 🌱 Currently leveling up: **Infrastructure as Code** & **Kubernetes**
-- 💬 Down to talk DevOps, cloud, or web dev anytime
 
 ---
 
